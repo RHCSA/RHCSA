@@ -1,6 +1,6 @@
 # Red Hat Certified System Administrator (RHCSA) - EX200
 
- <img src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA Badge" style="width:100%; height:auto;">
+ <img src="https://images.credly.com/size/340x340/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" alt="RHCSA Badge" style="width:50%; height:auto;">
 
 
 ---
