@@ -17,3 +17,5 @@ Explore more on our GitHub Pages:
 ---
 
 Get ready to elevate your Linux expertise and ace the **EX200** exam! 💪🎯
+
+> ***Disclaimer:*** This is a personal github repository and **IS NOT** affiliated with Red Hat in any way. All the information provided here are from my personal experience. The red hat logo is a registered trademark of Red Hat,Inc. in the United States and other countries. 
